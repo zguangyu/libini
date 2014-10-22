@@ -1,0 +1,6 @@
+2014-10-23  Guangyu Zhang  <zguangyu123@gmail.com>
+
+	* iniparser.c: First version released (0.1.0)
+
+	* tests/check_iniparser.c: Create test for this library.
+
