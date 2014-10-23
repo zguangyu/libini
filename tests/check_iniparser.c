@@ -1,6 +1,6 @@
 #include <check.h>
 #include <stdlib.h>
-#include "iniparser.h"
+#include "libini.h"
 
 START_TEST(test_parse_file)
 {

@@ -4,7 +4,7 @@
 #include <string.h>
 #include <ctype.h>
 #include "config.h"
-#include "iniparser.h"
+#include "libini.h"
 
 static int validSection(const char *str);
 static void parserInit(IniParser *parser);

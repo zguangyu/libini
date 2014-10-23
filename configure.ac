@@ -3,7 +3,7 @@
 
 AC_PREREQ([2.69])
 AC_INIT([libini], [0.1.0], [zguangyu123@gmail.com])
-AC_CONFIG_SRCDIR([iniparser.c])
+AC_CONFIG_SRCDIR([libini.c])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_HEADERS([config.h])
 AM_INIT_AUTOMAKE([-Wall -Werror 1.11])
